@@ -1,11 +1,11 @@
 Table of contents:
-- [Thesis Defense Committee Project Introduction](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj#thesis-defense-committee-project-introduction)
+- [Thesis Defense Committee Project: Introduction](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj#thesis-defense-committee-project-introduction)
 - [[For non-Vietnamese] Guides for reading input files](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj#for-non-vietnamese-guides-for-reading-input-files-eg-datatxt)
 - [Collaborators](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj#collaborators)
 - [To-do list / Features](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj#to-do-list--features)
 
 
-# Thesis Defense Committee Project Introduction:
+# Thesis Defense Committee Project: Introduction
 The link to the project: https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj/
 
 A capstone project for the course Fundamentals of Optimization at Hanoi University of Science and Technology.  
