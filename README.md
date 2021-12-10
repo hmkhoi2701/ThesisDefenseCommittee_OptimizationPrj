@@ -1,4 +1,4 @@
-# ThesisDefenseCommittee Project Introduction:
+# Thesis Defense Committee Project Introduction:
 The link to the project: https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj/
 
 A capstone project for the course Fundamentals of Optimization at Hanoi University of Science and Technology.  
@@ -10,4 +10,4 @@ In short, there are N theses and M professors. They should be divided into K com
   - Similarity index between theses and professors in the same comittees should exceed a certain value
 We're going to execute an input file and return a solution that maximize the similarity index for all committees.
 
-# Guides for reading input file [data.txt](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj/files/7690136/data.txt)
+# Guides for reading example input file [data.txt](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj/blob/main/data.txt)
