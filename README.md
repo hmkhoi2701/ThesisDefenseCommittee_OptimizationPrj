@@ -1,3 +1,10 @@
+Table of contents:
+- [Thesis Defense Committee Project Introduction](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj#thesis-defense-committee-project-introduction)
+- [[For non-Vietnamese] Guides for reading input files](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj#for-non-vietnamese-guides-for-reading-input-files-eg-datatxt)
+- [Collaborators](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj#collaborators)
+- [To-do list / Features]
+
+
 # Thesis Defense Committee Project Introduction:
 The link to the project: https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj/
 
@@ -21,11 +28,11 @@ We're going to execute an input file and return a solution that maximize the sim
 3. The next N lines is a NxN matrix, named s. The number at s[i][j] representing similarity index of thesis i and thesis j
 4. The next M lines is a MxN matrix, named g. The number at g[i][j] representing similarity index of professor i and thesis j
 5. The last line contains N elements, each representing which professor is in charge of which thesis  
-In the file [data.txt](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj/blob/main/data.txt), `2 3 2 6 5 6 1 1 4 4` means professor 2 guided thesis 1, professor 3 guided thesis 2, professor 2 guided thesis 3 and so on... then they cannot be in the same committee 
+In the file [data.txt](https://github.com/hmkhoi2701/ThesisDefenseCommittee_OptimizationPrj/blob/main/data.txt), `2 3 2 6 5 6 1 1 4 4` means professor 2 guided thesis 1, then they cannot be in the same committee; professor 3 guided thesis 2, professor 2 guided thesis 3 and so on... 
 
 # Collaborators
 
-# To-do list
+# To-do list / Features
 - [ ] Modelling the problem  
 Choose 3-4 methods:
   - [ ] Linear Programming
